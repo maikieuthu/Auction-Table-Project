@@ -14,6 +14,12 @@ o	Database: Xampp.
 
 ![pic 5](https://github.com/maikieuthu/Auction-Table-Project/assets/101267378/42c2cd11-f757-44f9-acc2-eeedc856c225)
 
+![pic 9](https://github.com/maikieuthu/Auction-Table-Project/assets/101267378/3bb6aa3c-0301-4cd0-8330-003e00aa1e42)
+
+![pic 10](https://github.com/maikieuthu/Auction-Table-Project/assets/101267378/fde3cf1a-107b-4d0d-a57d-1add43525db0)
+
+![pic 11](https://github.com/maikieuthu/Auction-Table-Project/assets/101267378/c3b823d1-d463-47a2-9a9a-84e319866ad6)
+
 ![pic 6](https://github.com/maikieuthu/Auction-Table-Project/assets/101267378/4e018878-2276-4863-84dc-f0858124133d)
 
 ![pic 7](https://github.com/maikieuthu/Auction-Table-Project/assets/101267378/898bbb23-841c-4cb3-b336-e1d17e7093e1)
