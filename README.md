@@ -1,7 +1,10 @@
 # Auction-Table-Project
 o	Develop website based on MVC model, using Laravel framework
-o	Programming language: HTML with BOOTSTRAP 5, CSS, JS for Frontend, PHP Laravel for Backend 
+
+o	Programming language: HTML with BOOTSTRAP 5, CSS, JS for Frontend, PHP Laravel for Backend
+
 o	Database: Xampp. 
+
 ---Admin Page (User: admin – Password: duongg)
 
 ![pic 1](https://github.com/maikieuthu/Auction-Table-Project/assets/101267378/54cfe8ea-585e-4ea2-a83f-98e86d6dea42)
